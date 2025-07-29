@@ -1,0 +1,62 @@
+ #About img{
+  width: 150px;
+  border-radius: 50%;
+  display: block;
+  margin: 10px auto;  
+}
+header{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    height: 100px;
+    line-height: 2;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* "??"*/
+  font-family: Arial, sans-serif;
+}
+body{
+    line-height: 1.6;
+}
+section {
+  margin: 40px 0;
+}
+footer{
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+h2{
+  border-bottom: 2px solid #333;
+  padding-left: 5px;
+  margin-bottom: 15px; /*heading se chapak kr na aaye content */
+}
+#About p{
+  padding-left: 15px;
+}
+ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+#Projects h2~.Project{
+  padding-left: 15px;
+}
+#resume a{
+  text-decoration: none;
+  color: #007bff;
+  padding-left: 15px;
+}
+.Project img{
+  width: 150px;
+  margin: 10px auto;
+
+}
+#Projects a{
+  text-decoration: none;
+}
+#Projects h4{
+  display: inline-block;
+}
